@@ -1,5 +1,22 @@
 # Graphql-Assignment
 .DS_Store
+server/.DS_Store
 server/node_modules
 server/dist
 server/yarn.lock
+
+# dependencies
+web/node_modules
+
+
+web/yarn.lock
+
+# next.js
+web/.next/
+web/out/
+
+# production
+# /build
+
+# misc
+web/.DS_Store
