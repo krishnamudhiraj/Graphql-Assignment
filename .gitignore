@@ -1,0 +1,5 @@
+# Graphql-Assignment
+.DS_Store
+server/node_modules
+server/dist
+server/yarn.lock
